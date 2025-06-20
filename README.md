@@ -116,8 +116,6 @@ collaboration: Open Source Projects
   
   <br>
   
-  <!-- Animated Contribution Snake -->
-  <img src="https://raw.githubusercontent.com/mourishantony/mourishantony/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
   
   <br><br>
 </div>
