@@ -90,15 +90,6 @@ collaboration: Open Source Projects
 
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284161-3bf700e1-5901-4553-b5b4-c6c8a8f26562.gif" width="30"> Featured Projects
-
-<div align="center">
-
-[![IPS Tech Community](https://github-readme-stats.vercel.app/api/pin/?username=mourishantony&repo=ips-portfolio&theme=radical&hide_border=true)](https://ips-portfolio.netlify.app/)
-
-</div>
-
----
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd4-9452-7faf3ae5e38e.gif" width="100">
