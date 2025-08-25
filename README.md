@@ -64,6 +64,10 @@ collaboration: Open Source Projects
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99c676e5e62a.gif" width="30"> Activity Graph
 
+
+<img src="snake.svg" alt="Snake animation" />
+
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mourishantony&bg_color=0d1117&color=e4e2e2&line=f85d7f&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
