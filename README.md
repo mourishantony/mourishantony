@@ -33,6 +33,10 @@ collaboration: Open Source Projects
 
 </div>
 
+<div aligh="center">
+<img src="snake.svg" alt="Snake animation" />
+</div>
+
 ## <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30"> Tech Stack & Skills
 
 <div align="center">
@@ -67,8 +71,6 @@ collaboration: Open Source Projects
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mourishantony&bg_color=0d1117&color=e4e2e2&line=f85d7f&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
-
-##<img src="snake.svg" alt="Snake animation" />
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284152-8cff5d75-8e95-4f5d-8fb9-8b4b02eefe5b.gif" width="30"> Let's Connect
 
