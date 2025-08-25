@@ -28,8 +28,8 @@ collaboration: Open Source Projects
 
 | 🔭 **Working On** | 🌱 **Learning** | 👯 **Collaboration** |
 |:---:|:---:|:---:|
-| [IPS Tech Community](https://ips-portfolio.netlify.app/) | Django & Cybersecurity | [Saythanks](https://github.com/BlitzKraft/saythanks.io) |
-| <img src="https://raw.githubusercontent.com/yourname/yourrepo/main/assets/camo.gif" width="100"> | <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"> | <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"> |
+| [IPS Tech Community](https://ips-community.netlify.app/)) | Django & Cybersecurity | [Saythanks](https://github.com/BlitzKraft/saythanks.io) |
+| <img src="IPS.png" width="100"> | <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"> | <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"> |
 
 </div>
 
