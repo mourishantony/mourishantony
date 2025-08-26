@@ -62,9 +62,7 @@ collaboration: Open Source Projects
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mourishantony&layout=compact&theme=radical&hide_border=true" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mourishantony&theme=radical&hide_border=true" width="70%" />
-</div>
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99c676e5e62a.gif" width="30"> Activity Graph
 
